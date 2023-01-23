@@ -12,7 +12,7 @@ export const CountdownContainer = styled.main`
   span {
     background: ${(props) => props.theme["gray-700"]};
     padding: 2rem 1rem;
-    border-radius: 8px;
+    border-radius: 08px;
   }
 `;
 
